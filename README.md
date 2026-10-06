@@ -1,5 +1,7 @@
 # Frequency-Decoupled Diffusion Guidance for Non-Blind Image Deblurring
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.06221-b31b1b.svg)](https://arxiv.org/abs/2610.06221)
+
 Official project page for the paper **Frequency-Decoupled Diffusion Guidance for Non-Blind Image Deblurring**.
 
 Sihan Wang<sup>1,†</sup> · Jinshu Huang<sup>1,†,*</sup> · Haibin Su<sup>2</sup> · Yunhua Xue<sup>1</sup>
@@ -10,7 +12,7 @@ Sihan Wang<sup>1,†</sup> · Jinshu Huang<sup>1,†,*</sup> · Haibin Su<sup>2<
 
 ## Links
 
-- Paper: arXiv coming soon
+- Paper: [arXiv:2610.06221](https://arxiv.org/abs/2610.06221)
 - Code: being prepared
 - Supplementary material: included with the paper
 
@@ -101,7 +103,14 @@ The FFHQ pretrained checkpoint is distributed with the DPS release. The ImageNet
 
 ## Citation
 
-BibTeX will be added once the arXiv identifier is available.
+```bibtex
+@article{wang2026frequency,
+  title={Frequency-Decoupled Diffusion Guidance for Non-Blind Image Deblurring},
+  author={Wang, Sihan and Huang, Jinshu and Su, Haibin and Xue, Yunhua},
+  journal={arXiv preprint arXiv:2610.06221},
+  year={2026}
+}
+```
 
 ## Acknowledgements
 
