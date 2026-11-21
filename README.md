@@ -13,7 +13,7 @@ Sihan Wang<sup>1,†</sup> · Jinshu Huang<sup>1,†,*</sup> · Haibin Su<sup>2<
 ## Links
 
 - Paper: [arXiv:2610.06221](https://arxiv.org/abs/2610.06221)
-- Code: being prepared
+- Code: [v0.1.0 (FFHQ Gaussian single-image demo)](https://github.com/Sea-serpents/frequency-decoupled-diffusion-guidance/releases/tag/v0.1.0)
 - Supplementary material: included with the paper
 
 ## TL;DR
